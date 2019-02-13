@@ -9,3 +9,5 @@ The second part of the blog post can be found here: https://mydeveloperplanet.co
 Branch feature/dockerbenchsecurity is part of blog post: https://mydeveloperplanet.com/2019/01/16/secure-docker-in-production/
 
 Branch feature/jenkinsci is part of blog post: https://mydeveloperplanet.com/2019/01/30/setup-jenkins-ci-in-30-minutes/
+
+The master branch is also used for the following blog post: https://mydeveloperplanet.com/2019/02/13/check-docker-images-for-vulnerabilities-with-anchore-engine/
