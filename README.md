@@ -16,3 +16,5 @@ Branch feature/jenkinsci is part of blog post: https://mydeveloperplanet.com/201
 The master branch is also used for the following blog post: https://mydeveloperplanet.com/2019/02/13/check-docker-images-for-vulnerabilities-with-anchore-engine/
 
 Branches feature/anchore and feature/anchore_solved are part of blog post: https://mydeveloperplanet.com/2019/02/27/anchore-container-image-scanner-jenkins-plugin/
+
+The master branch is also used for the following blog post: https://mydeveloperplanet.com/2019/03/27/first-steps-with-gcp-kubernetes-engine/
